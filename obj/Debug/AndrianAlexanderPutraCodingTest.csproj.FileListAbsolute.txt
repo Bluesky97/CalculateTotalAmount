@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe.config
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.pdb
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.frmShoppingCart.resources
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.Properties.Resources.resources
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.pdb
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB.mdf
+C:\Users\User\Desktop\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB_log.ldf
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB.mdf
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB_log.ldf
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe.config
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.pdb
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.frmShoppingCart.resources
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.Properties.Resources.resources
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Desktop\CalculatePayment\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.pdb
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB.mdf
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\CalPayDB_log.ldf
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe.config
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\bin\Debug\AndrianAlexanderPutraCodingTest.pdb
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.frmShoppingCart.resources
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.Properties.Resources.resources
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.GenerateResource.cache
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.exe
+C:\Users\User\Documents\DOKU (Hiring Test)\AndrianAlexanderPutraCodingTest\AndrianAlexanderPutraCodingTest\obj\Debug\AndrianAlexanderPutraCodingTest.pdb
